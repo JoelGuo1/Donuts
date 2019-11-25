@@ -1,2 +1,3 @@
 # Donuts
 Implement Minimum Spanning Tree, Solve Travelling Sales Problem
+Input is a set of 2-d coordinations indicating the donuts shop locations in America and Canada. There is a boundary between two countries and to reach shops from another country, one must first visit any one of the shops that are on the boundary. The first part of the program implemented Minimum Spanning Tree using Prim's Algorithm. Then it solved the TSP problem(Travelling Sales Person). Implemented TSP heuristic approximation algorithms--Nearest Insertion as a greedy method. Then used branch and bound, MST, and TSP heuristic to find an optimal solution to the TSP (the actual minimum Euclidean distance necessary).
